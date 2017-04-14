@@ -1,0 +1,12 @@
+.calcbtn {
+min-width: 100%;
+margin: 3px;
+
+}
+
+.calcdisplay {
+  max-width: 100%;
+  min-height: 50px;
+  margin-top: 200px;
+  font-size: 30px;
+}
